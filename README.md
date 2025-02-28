@@ -66,22 +66,5 @@ A web-based spreadsheet application that mimics the core functionalities of Goog
 - Click **Load** to retrieve saved data.
 - Click **Generate Chart** to create a bar chart from data.
 
-## Contributing
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make changes and commit (`git commit -m "Added new feature"`).
-4. Push the branch (`git push origin feature-name`).
-5. Open a pull request.
 
-## License
-This project is open-source and available under the MIT License.
-
-## Future Enhancements
-- Implement **relative & absolute referencing** in formulas.
-- Add **export/import CSV** functionality.
-- Enhance **collaborative editing** with Firebase.
-- Support **more complex data visualizations**.
-
----
-Feel free to contribute or suggest improvements!
 
